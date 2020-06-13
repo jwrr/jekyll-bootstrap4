@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Bootstrap!"
 date:   2020-06-13 08:51:44 -0400
 categories: jekyll update
 ---
